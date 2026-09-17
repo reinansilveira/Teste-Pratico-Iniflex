@@ -43,7 +43,7 @@ testar.bat
 ### Linux/macOS
 
 ```bash
-./testar.sh
+bash testar.sh
 ```
 
 Os scripts executam os testes JUnit quando o Maven está instalado e, em seguida, mostram o resultado completo. Se apenas o JDK estiver disponível, compilam e executam o programa normalmente.
